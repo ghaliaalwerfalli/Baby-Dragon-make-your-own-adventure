@@ -12,7 +12,7 @@
     **********************************************************************************************************************
 
 
-# Baby-Dragon-make-your-own-adventure
+# Baby Dragon: Make Your Own Adventure
 
 Python Learning Project
 An assignment I had to make after following with the lessons provided in 100 Days of Code: The Complete Python Pro by Dr. Angela Yu .
